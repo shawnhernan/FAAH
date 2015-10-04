@@ -10,7 +10,7 @@ namespace FAAH
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world, from dev"); 
+            Console.WriteLine("Hello, world, from dev 2"); 
         }
     }
 }
